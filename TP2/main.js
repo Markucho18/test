@@ -113,7 +113,10 @@ En Windows/Linux: Selecciona la línea y presiona Ctrl + /.
 Comentar múltiples líneas de código:
 
 En Windows/Linux: Selecciona las líneas y presiona Shift + Alt + A.
-*/
+*
+//Me gustan los carpinchos
+
+
 
 
 
